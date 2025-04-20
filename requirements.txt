@@ -7,3 +7,4 @@ scikit-learn==1.6.1
 nltk==3.9.1
 emoji==2.14.1
 pyspellchecker==0.8.2
+tqdm
