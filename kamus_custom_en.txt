@@ -24,3 +24,4 @@ cuz=cause
 omg=oh my god
 vip=very important person
 rly=really
+lol=laughing out loud
